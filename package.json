@@ -1,0 +1,22 @@
+{
+  "name": "analisis-de-algoritmos",
+  "version": "1.0.0",
+  "description": "Curso de análisis y diseño de algoritmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BilbaoJ/AnalisisDeAlgoritmos.git"
+  },
+  "author": "BilbaoJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BilbaoJ/AnalisisDeAlgoritmos/issues"
+  },
+  "homepage": "https://github.com/BilbaoJ/AnalisisDeAlgoritmos#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
